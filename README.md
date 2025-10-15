@@ -1,3 +1,6 @@
+📁 Repository Archived
+This repository has been archived as part of ongoing changes to align with ONS GitHub usage policies. No further updates will be made.
+
 [![build status](https://travis-ci.com/datasciencecampus/chrono_lens.svg?branch=main)](https://travis-ci.com/datasciencecampus/chrono_lens)
 [![codecov](https://codecov.io/gh/datasciencecampus/chrono_lens/branch/main/graph/badge.svg)](https://codecov.io/gh/datasciencecampus/chrono_lens)
 [![LICENSE.](https://img.shields.io/badge/license-OGL--3-blue.svg?style=flat)](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)
